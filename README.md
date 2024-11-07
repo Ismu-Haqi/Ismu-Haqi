@@ -43,6 +43,6 @@
 
 <div align="center" style="display:flex; justify-content: center;">
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://streak-stats.demolab.com/?user=Ismu-Haqi&theme=github-light" alt="ahmad-syaifuddin" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismu-Haqi&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=Ismu-Haqi&theme=github-light" alt="Ismu-Haqi/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismu-Haqi&layout=compact"/>
 
 </div>
