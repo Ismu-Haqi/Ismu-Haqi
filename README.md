@@ -26,16 +26,16 @@
 
 <!-- Graph Gelombang Contributions -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ismu-Haqi&show_icons=true&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ismu-Haqi&show_icons=true&theme=monokai">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
 
 <!-- Bar Graph Commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ismu-Haqi&show_icons=true&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ismu-Haqi&show_icons=true&theme=monokai"/>
 
-<!-- Ahmad Syaifuddin's GitHub stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=Ismu-Haqi&show_icons=true&theme=chartreuse-dark"/>
+<!-- 's GitHub stats-->
+<img src="https://github-readme-stats.vercel.app/api?username=Ismu-Haqi&show_icons=true&theme=monokai"/>
 
 </div>
 
@@ -43,6 +43,6 @@
 
 <div align="center" style="display:flex; justify-content: center;">
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://streak-stats.demolab.com/?user=Ismu-Haqi&theme=github-light" alt="Ismu-Haqi/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismu-Haqi&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=Ismu-Haqi&theme=monokai" alt="Ismu-Haqi/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismu-Haqi&layout=compact"/>
 
 </div>
